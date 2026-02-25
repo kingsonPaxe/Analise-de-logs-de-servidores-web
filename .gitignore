@@ -1,3 +1,3 @@
-# Apaguei o access.log por 
+# Apaguei o access.log por ser muito pesado
 access.log 
 Ips2.csv
