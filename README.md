@@ -26,7 +26,8 @@ Analise de logs de servidor web/
 ├── log_dw.pkl                 # Dataset processado (pickle format)
 ├── logServidores_web.db       # Banco de dados SQLite com dados processados
 ├── Análise.ipynb              # Notebook com análise exploratória de dados
-├── index.ipynb                # Notebook adicional para análises
+├── ETL.ipynb                # Notebook adicional para o ETL
+├── ETL.py                  # arquivo  para o ETL
 ├── dashboard.py               # Dashboard interativo com Streamlit
 ├── workflow.excalidraw        # Diagrama visual do pipeline de dados
 ├── requirements.txt           # Dependências Python
@@ -232,7 +233,7 @@ Notebook principal com análise completa dos dados:
 - **Seção 6:** Segmentação por dispositivo
 - **Seção 7:** Detecção e análise de bots
 
-### `index.ipynb`
+### `ETL.ipynb`
 Notebook adicional com análises complementares e experimentações.
 
 ---
